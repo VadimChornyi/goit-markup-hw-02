@@ -42,11 +42,10 @@ body {
 }
 .area {
   background-color: var(--fifth-color);
-
 }
 
 .header-style {
-   font-weight: 500;
+  font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
@@ -68,7 +67,6 @@ body {
 }
 
 .menu-link {
- header-style;
   color: var(--third-color);
 }
 
@@ -81,7 +79,6 @@ body {
 
 .mail-link,
 .tel-link {
-  header-style;
   color: var(--secondary-color);
 }
 
@@ -90,12 +87,11 @@ body {
 .mail-link:hover,
 .mail-link:focus {
   color: var(--accent-color);
-  }
+}
 
-  .menu .menu-link.current {
-    color: var(--accent-color);
-  }
-
+.menu .menu-link.current {
+  color: var(--accent-color);
+}
 
 /*==========END HEADER========== */
 
